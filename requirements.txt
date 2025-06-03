@@ -1,0 +1,7 @@
+PyQt5
+polib
+langcodes
+babel
+openai
+pydantic
+pydantic-settings
